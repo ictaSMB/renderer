@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Centaur MT Std";
+  src: url("/static/fonts/CentaurMTStd/font.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
